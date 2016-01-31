@@ -2930,6 +2930,182 @@ Scheme
 			}
 		}
 		
+		ComfortaaB12
+		{
+			"1"
+			{
+				"name"		"Comfortaa Bold"
+				"tall"		"12"
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		
+		ComfortaaB14
+		{
+			"1"
+			{
+				"name"		"Comfortaa Bold"
+				"tall"		"14"
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		
+		ComfortaaB16
+		{
+			"1"
+			{
+				"name"		"Comfortaa Bold"
+				"tall"		"16"
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		
+		ComfortaaB18
+		{
+			"1"
+			{
+				"name"		"Comfortaa Bold"
+				"tall"		"18"
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		
+		ComfortaaB20
+		{
+			"1"
+			{
+				"name"		"Comfortaa Bold"
+				"tall"		"20"
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		
+		ComfortaaB24
+		{
+			"1"
+			{
+				"name"		"Comfortaa Bold"
+				"tall"		"24"
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		
+		ComfortaaB32
+		{
+			"1"
+			{
+				"name"		"Comfortaa Bold"
+				"tall"		"32"
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		
+		ComfortaaB40
+		{
+			"1"
+			{
+				"name"		"Comfortaa Bold"
+				"tall"		"40"
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		
+		ComfortaaL12
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"12"
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		
+		ComfortaaL14
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"14"
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		
+		ComfortaaL16
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"16"
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		
+		ComfortaaL18
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"18"
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		
+		ComfortaaL20
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"20"
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		
+		ComfortaaL24
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"24"
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		
+		ComfortaaL32
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"32"
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		
+		ComfortaaL40
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"40"
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		
 	}
 
 	// Custom Hud Fonts
