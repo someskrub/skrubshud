@@ -16,8 +16,8 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c200"	[$WIN32]
-		"ypos"	"c100"	[$WIN32]
+		"xpos"	"c125"	[$WIN32]
+		"ypos"	"c75"	[$WIN32]
 		"wide"	"250"
 		"tall"	"120"
 	}
@@ -195,11 +195,8 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"r162"	[$WIN32]
-		"ypos"					"r152"	[$WIN32]
-		"ypos_minmode"			"r134"	[$WIN32]
-		"xpos"					"r194"	[$X360]
-		"ypos"					"r174"	[$X360]
+		"xpos"					"c183"	[$WIN32]
+		"ypos"					"c65"	[$WIN32]
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
